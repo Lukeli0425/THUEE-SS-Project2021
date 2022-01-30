@@ -1,6 +1,12 @@
 # THUEE Signal and Systems Project 2021
 ## 清华大学电子工程系2021春信号与系统大作业《B站，我来了！》
 
+This is my implemention of 2021 **_Signals and Systems_** project. The main task is to build an algorithm that creates an video from a given set of video clips and an background music so that the video clips matches the background music in terms of audio rhythm as best as possible. This project is built with Matlab.
+
+![ss_cover](./ss_cover.png)
+
+<div align=center><img src="./figures/2_1_3%20figure1.jpg" width=410 ><img src="./figures/2_1_3%20figure2.jpg" width=410 ><img/></div>
+
 ### 作业内容
 这次作业利用Matlab研究了混剪视频的方法，主要着眼于背景音乐和视频片段的激烈度匹配。具体而言，对于给定的一段背景音乐和若干视频片段，我们希望从中选出若干视频片段，按一定顺序与背景音乐拼接称为一段视频，使得生成的视频的冲击力最大。视频的冲击力定义为视频片段的激烈度组成的序列和对应音频片段的激烈度组成的序列的相关系数。一个序列的激烈度则定义为该序列组成的向量的二范数。
 
