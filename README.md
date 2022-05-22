@@ -1,7 +1,7 @@
 # THUEE Signal and Systems Project 2021
 ## 清华大学电子工程系2021春信号与系统大作业《B站，我来了！》
 
-This is my implemention of 2021 **_Signals and Systems_** project. The main task is to build an algorithm that creates an video from a given set of video clips and an background music so that the video clips matches the background music in terms of audio rhythm as best as possible. This project is built with Matlab.
+This is my 2021 **_Signals and Systems_** course project. The task is to build an algorithm that creates a video from a given set of video clips and a piece of background music so that the clips' audio rhythm best match the background music's. This project is implemented with Matlab.
 
 ![ss_cover](./ss_cover.png)
 
